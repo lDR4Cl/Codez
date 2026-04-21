@@ -1,7 +1,5 @@
 --Version 0.2
 --Disable/Enable = L
---loadstring(game:HttpGet('https://pastebin.com/2hbsUnVE')()
-
 
 --[[
     DEVLOGS:
